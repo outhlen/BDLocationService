@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">定位服务Demo</string>
+    <string name="startlocation">开始定位</string>
+    <string name="stoplocation">停止定位</string>
+</resources>
